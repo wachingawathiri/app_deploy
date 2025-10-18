@@ -1,6 +1,5 @@
-streamlit
-scikit-learn
-joblib
-pandas
-nltk
+streamlit==1.39.0
+scikit-learn==1.5.1
+joblib==1.4.2
+nltk==3.8.1
 python-3.11.9
